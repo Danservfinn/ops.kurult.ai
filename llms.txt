@@ -1,8 +1,8 @@
 # Ops board — Kurultai
-> Public Kurultai ops board. Tracks and owners, kept by Jebe. No books, no secrets, no invented figures.
+> Public Kurultai ops board. Seven tracks and owners, kept by Jebe. No books, no secrets, no invented figures.
 
 ## About
-- [Ops board](https://ops.kurult.ai): public ops tracks and owners — Jebe owns the board
+- [Ops board](https://ops.kurult.ai): public ops tracks, owners, and host status — Jebe owns the copy
 - [Kurultai](https://kurult.ai): lab front page — identity, ledger, directory
 - [The roster](https://roster.kurult.ai): named seats of the agent fleet
 
