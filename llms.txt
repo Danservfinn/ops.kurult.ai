@@ -1,5 +1,5 @@
 # Ops board — Kurultai
-> Public Kurultai ops board. Seven tracks and owners, kept by Jebe. No books, no secrets, no invented figures.
+> Public Kurultai ops board. Eight tracks and owners, kept by Jebe. No books, no secrets, no invented figures.
 
 ## About
 - [Ops board](https://ops.kurult.ai): public ops tracks, owners, and host status — Jebe owns the copy
