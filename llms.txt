@@ -1,0 +1,16 @@
+# Ops board — Kurultai
+> Public Kurultai ops board. Tracks and owners, kept by Jebe. No books, no secrets, no invented figures.
+
+## About
+- [Ops board](https://ops.kurult.ai): public ops tracks and owners — Jebe owns the board
+- [Kurultai](https://kurult.ai): lab front page — identity, ledger, directory
+- [The roster](https://roster.kurult.ai): named seats of the agent fleet
+
+## Research
+- [Kurultai Research](https://blog.kurult.ai): reviewed research reports on governed agent systems
+
+## Product
+- [ParseThis](https://parsethis.ai): agent governance platform
+
+## Code
+- [GitHub](https://github.com/Danservfinn): public repositories
