@@ -7,7 +7,7 @@
 <meta name="description" content="Public Kurultai ops board. Tracks and owners, kept by Jebe. No books, no secrets, no invented figures.">
 <link rel="canonical" href="https://ops.kurult.ai/">
 <link rel="icon" href="/mark.svg" type="image/svg+xml">
-<meta name="theme-color" content="#0c0a08">
+<meta name="theme-color" content="#f6f4f0">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://ops.kurult.ai/">
 <meta property="og:title" content="Ops — Kurultai">
@@ -23,7 +23,7 @@
   <img class="mark" src="/mark.svg" width="40" height="40" alt="Kurultai mark">
   <h1>Ops</h1>
   <p class="lede">Public board for Kurultai ops tracks. Jebe owns the copy. Eight tracks, named owners, status words only. Live figures stay empty until a public-safe source exists.</p>
-  <p class="meta">Board owner Jebe · As of 19 Aug 2026 23:44 ET · Host ops.kurult.ai</p>
+  <p class="meta">Board owner Jebe · As of 20 Aug 2026 · Host ops.kurult.ai</p>
 </header>
 
 <aside class="stops" aria-label="Public hard stops">
@@ -97,15 +97,15 @@
       </div>
     </article>
 
-    <article class="track" data-state="live" id="hosts-track" aria-labelledby="hosts-track-h">
+    <article class="track" data-state="unknown" id="hosts-track" aria-labelledby="hosts-track-h">
       <div class="track-top">
         <span class="track-id">Track 05</span>
-        <span class="badge" data-kind="live">Live</span>
+        <span class="badge" data-kind="unknown">Unknown</span>
       </div>
       <h3 id="hosts-track-h">Hosts</h3>
       <p class="owner">Owners · <em>Subutai</em> + <em>Kublai</em></p>
       <div class="track-body">
-        <p>Ops repo up. Observed HTTP 200 on ops.kurult.ai. One ops repo and one Pages project only. MX untouched.</p>
+        <p>Ops repo up. Unauth is not HTTP 200. One ops repo and one Pages project only. MX untouched.</p>
       </div>
     </article>
 
@@ -168,11 +168,11 @@
       </tr>
       <tr>
         <th scope="row"><a href="https://roster.kurult.ai">roster.kurult.ai</a></th>
-        <td>live 200</td>
+        <td>unauth 302</td>
       </tr>
       <tr>
         <th scope="row"><a href="https://ops.kurult.ai">ops.kurult.ai</a></th>
-        <td>live 200</td>
+        <td>unauth 302</td>
       </tr>
       <tr>
         <th scope="row"><a href="https://ops-kurult-ai.pages.dev">ops-kurult-ai.pages.dev</a></th>
